@@ -2,7 +2,7 @@
 
 Another skeleton of React App using Tailwind CSS and Vite
 
-<button style="padding: 10px; cursor:pointer;" href='https://github.com/webeetle/vite-react-app/generate'>Using this repo as template</button>
+[![](https://img.shields.io/badge/-Using this repo as Template-informational?style=for-the-badge&color=2867B2)](https://github.com/webeetle/vite-react-app/generate)
 
 ## Instruction
 
