@@ -1,5 +1,5 @@
 {
-  "name": "personal-resume-template",
+  "name": "vite-react-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
